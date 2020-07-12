@@ -1,0 +1,6 @@
+[submodule "Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow"]
+	path = Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow
+	url = https://github.com/5anirban9/Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow
+[submodule "timeseriesAI"]
+	path = timeseriesAI
+	url = https://github.com/timeseriesAI/timeseriesAI/

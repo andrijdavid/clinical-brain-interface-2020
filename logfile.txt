@@ -1,0 +1,184 @@
+INFO (hyperopt.mongoexp): job exception: [Errno 2] No such file or directory: 'data/train.pkl'
+INFO (hyperopt.mongoexp): job exception: [Errno 2] No such file or directory: 'data/train.pkl'
+INFO (hyperopt.mongoexp): job exception: [Errno 2] No such file or directory: 'data/train.pkl'
+INFO (hyperopt.mongoexp): job exception: [Errno 2] No such file or directory: 'data/train.pkl'
+INFO (hyperopt.mongoexp): job exception: Input type (torch.cuda.FloatTensor) and weight type (torch.cuda.HalfTensor) should be the same
+INFO (hyperopt.mongoexp): job exception: CUDA out of memory. Tried to allocate 270.00 MiB (GPU 0; 7.79 GiB total capacity; 5.60 GiB already allocated; 72.81 MiB free; 323.02 MiB cached)
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+INFO (hyperopt.mongoexp): Error while unpickling.
+INFO (hyperopt.mongoexp): job exception: 15
+INFO (hyperopt.mongoexp): job exception: Input type (torch.cuda.FloatTensor) and weight type (torch.cuda.HalfTensor) should be the same
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+INFO (hyperopt.mongoexp): job exception: 2
+INFO (hyperopt.mongoexp): job exception: Input type (torch.cuda.FloatTensor) and weight type (torch.cuda.HalfTensor) should be the same
+INFO (hyperopt.mongoexp): job exception: Input type (torch.cuda.FloatTensor) and weight type (torch.cuda.HalfTensor) should be the same
+INFO (hyperopt.mongoexp): job exception: Input type (torch.cuda.FloatTensor) and weight type (torch.cuda.HalfTensor) should be the same
+INFO (hyperopt.mongoexp): job exception: Input type (torch.cuda.FloatTensor) and weight type (torch.cuda.HalfTensor) should be the same
+INFO (hyperopt.mongoexp): job exception: CUDA out of memory. Tried to allocate 954.00 MiB (GPU 0; 7.80 GiB total capacity; 6.64 GiB already allocated; 447.12 MiB free; 5.00 MiB cached)
+INFO (hyperopt.mongoexp): job exception: CUDA out of memory. Tried to allocate 900.00 MiB (GPU 0; 7.80 GiB total capacity; 6.25 GiB already allocated; 847.12 MiB free; 3.24 MiB cached)
+INFO (hyperopt.mongoexp): job exception: CUDA out of memory. Tried to allocate 352.00 MiB (GPU 0; 7.80 GiB total capacity; 7.07 GiB already allocated; 3.12 MiB free; 9.52 MiB cached)
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+INFO (hyperopt.mongoexp): job exception: 15
+INFO (hyperopt.mongoexp): job exception: CUDA out of memory. Tried to allocate 318.00 MiB (GPU 0; 7.79 GiB total capacity; 5.95 GiB already allocated; 16.81 MiB free; 23.73 MiB cached)
+INFO (hyperopt.mongoexp): job exception: CUDA out of memory. Tried to allocate 270.00 MiB (GPU 0; 7.79 GiB total capacity; 5.85 GiB already allocated; 132.81 MiB free; 4.49 MiB cached)
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+INFO (hyperopt.mongoexp): job exception: 2
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object is not subscriptable
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Received batch errors sending channels' values to experiment CBCIC2020-17. Skipping 21 values.
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Received batch errors sending channels' values to experiment CBCIC2020-17. Skipping 1 values.
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Received batch errors sending channels' values to experiment CBCIC2020-17. Skipping 21 values.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): job exception: 2
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object is not subscriptable
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object is not subscriptable
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object is not subscriptable
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object is not subscriptable
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+INFO (hyperopt.mongoexp): job exception: 2
+INFO (hyperopt.mongoexp): job exception: ('SONify', tensor(0.5497), {'loss': 0.2265625, 'status': 'ok', 'kappa': tensor(0.5497)})
+INFO (hyperopt.mongoexp): job exception: ('SONify', tensor(0.6704), {'loss': 0.1640625, 'status': 'ok', 'kappa': tensor(0.6704)})
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+INFO (hyperopt.mongoexp): job exception: 2
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): job exception: index 0 is out of bounds for dimension 0 with size 0
+INFO (hyperopt.mongoexp): job exception: index 0 is out of bounds for dimension 0 with size 0
+INFO (hyperopt.mongoexp): job exception: index 0 is out of bounds for dimension 0 with size 0
+INFO (hyperopt.mongoexp): job exception: index 0 is out of bounds for dimension 0 with size 0
+INFO (hyperopt.mongoexp): job exception: index 0 is out of bounds for dimension 0 with size 0
+INFO (hyperopt.mongoexp): job exception: name 'pool' is not defined
+INFO (hyperopt.mongoexp): job exception: name 'pool' is not defined
+INFO (hyperopt.mongoexp): job exception: name 'pool' is not defined
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+INFO (hyperopt.mongoexp): job exception: 15
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Server error. Please try again later.
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Server error. Please try again later.
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Server error. Please try again later.
+INFO (hyperopt.mongoexp): job exception: Server error. Please try again later.
+INFO (hyperopt.mongoexp): job exception: CUDA out of memory. Tried to allocate 128.00 MiB (GPU 0; 7.80 GiB total capacity; 4.95 GiB already allocated; 94.12 MiB free; 10.27 MiB cached)
+INFO (hyperopt.mongoexp): job exception: CUDA out of memory. Tried to allocate 128.00 MiB (GPU 0; 7.80 GiB total capacity; 4.95 GiB already allocated; 94.12 MiB free; 10.27 MiB cached)
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Server error. Please try again later.
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Server error. Please try again later.
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Server error. Please try again later.
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Server error. Please try again later.
+INFO (hyperopt.mongoexp): job exception: Server error. Please try again later.
+WARNING (neptune.internal.channels.channels_values_sender): Failed to send channel value: Server error. Please try again later.
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+INFO (hyperopt.mongoexp): job exception: 15
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+INFO (hyperopt.mongoexp): job exception: 15
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): Error while unpickling.
+INFO (hyperopt.mongoexp): job exception: (fastprogress 0.1.20 (/opt/anaconda/envs/pytorch/lib/python3.7/site-packages), Requirement.parse('fastprogress>=0.2.1'))
+INFO (hyperopt.mongoexp): Error while unpickling.
+INFO (hyperopt.mongoexp): job exception: (fastprogress 0.1.20 (/opt/anaconda/envs/pytorch/lib/python3.7/site-packages), Requirement.parse('fastprogress>=0.2.1'))
+INFO (hyperopt.mongoexp): Error while unpickling.
+INFO (hyperopt.mongoexp): job exception: (fastprogress 0.1.20 (/opt/anaconda/envs/pytorch/lib/python3.7/site-packages), Requirement.parse('fastprogress>=0.2.1'))
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): Caught signal 2, shutting down.
+INFO (hyperopt.mongoexp): Error while unpickling.
+INFO (hyperopt.mongoexp): job exception: 2
+INFO (hyperopt.mongoexp): Caught signal 15, shutting down.
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
+INFO (hyperopt.mongoexp): job exception: 'NoneType' object has no attribute 'update'
